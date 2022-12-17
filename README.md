@@ -2,9 +2,6 @@ Hi, i'm Tomás Alcaraz - Frontend Developer
 <!-- DESCRIPTION -->
 
 ## 🚀My projects 
-
-_I love to make projects to increase my technical skills and keep learning about new technologies. Here are some of my best projects._
-
 - [Henry - Individual Project: Game Library](https://github.com/TomasAlcaraz/game-library)
 
 ## ⚙ My stack technologies
