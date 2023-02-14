@@ -2,8 +2,8 @@ Hi, i'm Tomás Alcaraz - Frontend Developer
 <!-- DESCRIPTION -->
 
 ## 🚀My Projects 
-- [Henry - Individual Project: Game Library](https://github.com/TomasAlcaraz/game-library)
 - [Henry - Group Project: Vibe](https://github.com/dmc2m4/VIBE)
+- [Henry - Individual Project: Game Library](https://github.com/TomasAlcaraz/game-library)
 
 ## ⚙ My Stack Technologies
 |Programming languages|Frontend|Backend|
