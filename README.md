@@ -2,7 +2,7 @@ Hi, i'm Tomás Alcaraz - Frontend Developer
 <!-- DESCRIPTION -->
 
 ## 🚀My Projects 
-- [Henry - Group Project: Vibe](https://github.com/dmc2m4/VIBE)
+- [Henry - Group Project: Vibe](https://github.com/TomasAlcaraz/VIBE)
 - [Henry - Individual Project: Game Library](https://github.com/TomasAlcaraz/game-library)
 
 ## ⚙ My Stack Technologies
