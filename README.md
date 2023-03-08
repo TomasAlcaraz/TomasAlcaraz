@@ -1,4 +1,4 @@
-Hi, i'm Tomás Alcaraz - Frontend Developer
+Hi, i'm Tomás Alcaraz - Full Stack Developer
 <!-- DESCRIPTION -->
 
 ## 🚀My Projects 
