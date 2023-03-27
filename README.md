@@ -2,6 +2,7 @@ Hi, i'm Tomás Alcaraz - Full Stack Developer
 <!-- DESCRIPTION -->
 
 ## 🚀My Projects 
+- [Chapp: Chat App - IA](https://github.com/TomasAlcaraz/chat-app)
 - [Henry - Group Project: Vibe](https://github.com/TomasAlcaraz/VIBE)
 - [Henry - Individual Project: Game Library](https://github.com/TomasAlcaraz/game-library)
 
